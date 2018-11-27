@@ -34,7 +34,7 @@
 - [クリエイティブ・コモンズ・ライセンス (Creative Commons License) の付与のしかた / 採用の理由](https://github.com/yosukesakai/guideline_for_procedure_of_open_project/blob/master/Appendix/CCLicense%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9%E4%BB%98%E4%B8%8E%E3%81%AE%E3%81%97%E3%81%8B%E3%81%9F:%E6%8E%A1%E7%94%A8%E3%81%AE%E7%90%86%E7%94%B1.md)  
   
     
-- [オープン化のガイドライン](https://github.com/yosukesakai/guideline_for_procedure_of_open_project)  
+- [オープン化のガイドライン](https://github.com/YCAMInterlab/OpenSharingGuideline)  
   
   
 - [YCAM WORKSPACE DOCS](https://github.com/YCAMInterlab/YCAM_WORKSPACE_DOCS)  
