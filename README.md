@@ -40,7 +40,7 @@
 - [YCAM WORKSPACE DOCS](https://github.com/YCAMInterlab/YCAM_WORKSPACE_DOCS)  
 
 
-- [メディアアートにおけるリーガルデザインの実践的ガイドライン](https://github.com/yosukesakai/Practical_Guideline_of_Legal_Design_in_Media_Art/)
+- [メディアアートにおけるリーガルデザインの実践的ガイドライン](https://github.com/yosukesakai/Practical_Guidelines_for_Legal_Design_in_Media_Art/)
 
 
   
